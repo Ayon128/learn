@@ -3,6 +3,7 @@ Trying to do something new.
 Basic git and github.
 There is another commit.
 Try to learn new command.
+Added this line.
 Let's move on .
 i have started to learn git.
 I will learn Machine Learching  In sha Allah.
