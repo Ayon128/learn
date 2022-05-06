@@ -5,3 +5,4 @@ There is another commit.
 Try to learn new command.
 Let's move on .
 i have started to learn git.
+I will learn Machine Learching  In sha Allah.
