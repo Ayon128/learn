@@ -1,3 +1,6 @@
 This is practise.
 Trying to do something new.
 Basic git and github.
+There is another commit.
+Try to learn new command.
+Let's move on .
