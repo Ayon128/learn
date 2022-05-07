@@ -8,4 +8,5 @@ Let's move on .
 i have started to learn git.
 I will learn Machine Learching  In sha Allah.
 Logo allignment is centred.
-This line has to be modified.
+new line is added.
+
